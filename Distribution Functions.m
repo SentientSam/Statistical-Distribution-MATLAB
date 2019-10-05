@@ -3,7 +3,7 @@
 
 % Samuel Lamb
 % 10/4/2019
-% Gauss MATLAB Assignment
+% Gauss MATLAB
 
 % expcdf()
 % exppdf()
